@@ -1,0 +1,86 @@
+{
+  "errno":0,
+  "errmsg":"OK",
+  "result":[
+    {
+      "product_id":"20497",
+      "model_name":"iPhone 6s",
+      "brand_id":"2",
+      "brand_name":"苹果",
+      "price":4050,
+      "model_id":"261",
+      "mer_id":"8",
+      "thum_img":{
+        "old":"http://p0.qhmsg.com/t01ac7e90dc7b722260.jpg",
+        "big":"http://p0.qhmsg.com/t01424493481b305dfc.jpg",
+        "mid":"http://p0.qhmsg.com/t01e89c9ebdece92e9d.jpg",
+        "min":"http://p0.qhmsg.com/t0156b5af6f05d75325.jpg"
+      },
+      "mer_name":""
+    },
+    {
+      "product_id":"20501",
+      "model_name":"iPhone 6",
+      "brand_id":"2",
+      "brand_name":"苹果",
+      "price":2250,
+      "model_id":"97",
+      "mer_id":"8",
+      "thum_img":{
+        "old":"http://p0.qhmsg.com/t01042f0e1ad3db884a.png",
+        "big":"http://p0.qhmsg.com/t01f5575883be765e32.png",
+        "mid":"http://p0.qhmsg.com/t01ca68a181942f676d.png",
+        "min":"http://p0.qhmsg.com/t016ef94425a00bd05a.png"
+      },
+      "mer_name":""
+    },
+    {
+      "product_id":"20504",
+      "model_name":"iPhone 6",
+      "brand_id":"2",
+      "brand_name":"苹果",
+      "price":2750,
+      "model_id":"97",
+      "mer_id":"8",
+      "thum_img":{
+        "old":"http://p0.qhmsg.com/t017cba5fcace0ee0db.png",
+        "big":"http://p0.qhmsg.com/t0180d7542624092d6f.png",
+        "mid":"http://p0.qhmsg.com/t0107f78db3505886a1.png",
+        "min":"http://p0.qhmsg.com/t01feff895c7b9385c4.png"
+      },
+      "mer_name":""
+    },
+    {
+      "product_id":"20503",
+      "model_name":"iPhone SE",
+      "brand_id":"2",
+      "brand_name":"苹果",
+      "price":2299,
+      "model_id":"518",
+      "mer_id":"8",
+      "thum_img":{
+        "old":"http://p0.qhmsg.com/t019c10fee4725c6c9f.jpg",
+        "big":"http://p0.qhmsg.com/t01273cc06efc384716.jpg",
+        "mid":"http://p0.qhmsg.com/t016a4c7720fb8a45ac.jpg",
+        "min":"http://p0.qhmsg.com/t0147eab513074010c5.jpg"
+      },
+      "mer_name":""
+    },
+    {
+      "product_id":"20542",
+      "model_name":"iPhone 5",
+      "brand_id":"2",
+      "brand_name":"苹果",
+      "price":799,
+      "model_id":"3",
+      "mer_id":"8",
+      "thum_img":{
+        "old":"http://p0.qhmsg.com/t01e27ff3769ef9ba6c.jpg",
+        "big":"http://p0.qhmsg.com/t0109f69c3068b04972.jpg",
+        "mid":"http://p0.qhmsg.com/t0115641899ebf5f581.jpg",
+        "min":"http://p0.qhmsg.com/t0103019276182131a1.jpg"
+      },
+      "mer_name":""
+    }
+  ]
+}
